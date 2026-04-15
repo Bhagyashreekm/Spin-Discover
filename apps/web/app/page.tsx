@@ -65,9 +65,6 @@ export default function Home() {
           <p className="mt-3 text-muted-foreground">
             Feeling indecisive? Pick a category and spin for a random treat.
           </p>
-          <p className="mt-1 text-sm text-muted-foreground">
-            Powered by Public APIs • Bored API, Dad Jokes, Quotable, Dog CEO
-          </p>
         </header>
 
         <Tabs defaultValue="discover" className="w-full">
@@ -104,11 +101,6 @@ export default function Home() {
             </div>
           </TabsContent>
         </Tabs>
-
-        <footer className="mt-16 text-center text-xs text-muted-foreground">
-          Built with Turborepo, Next.js, React, Tailwind, TypeScript, Zustand,
-          React Query, Prettier & ESLint
-        </footer>
       </div>
     </main>
   );
