@@ -1,5 +1,7 @@
 # Spin & Discover
 
+Repository: [Bhagyashreekm/Spin-Discover](https://github.com/Bhagyashreekm/Spin-Discover)
+
 A fun mini-app for indecisive moments! Pick a category (Activity, Dad Joke, Quote, or Dog Pic) and spin for a random suggestion. Save favorites with one click.
 
 **APIs used** (from [PublicAPI.dev](https://publicapi.dev/)):
